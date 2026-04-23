@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Archive.is",
+    "url": "https://archive.is",
+    "description": "A web archiving tool that lets you create permanent snapshots of any webpage. Featured by lucaswebq for preserving online content, bypassing paywalls on articles, and saving references before they disappear from the internet.",
+    "tags": [
+      "archiving",
+      "research",
+      "productivity",
+      "utility"
+    ]
+  },
+  {
+    "name": "JustWatch",
+    "url": "https://www.justwatch.com",
+    "description": "A streaming search engine that tells you exactly which platform (Netflix, Prime Video, Disney+, etc.) has the movie or show you want to watch. Highlighted by lucaswebq as an essential tool to stop switching between apps.",
+    "tags": [
+      "streaming",
+      "entertainment",
+      "movies",
+      "tv-shows"
+    ]
+  },
+  {
+    "name": "Fast.com",
+    "url": "https://fast.com",
+    "description": "Netflix's free internet speed test tool. Instantly measures your download and upload speeds with no setup needed. Lucaswebq recommended it for remote workers, gamers, and streamers who need quick connection checks.",
+    "tags": [
+      "internet",
+      "speed-test",
+      "utility",
+      "networking"
+    ]
+  },
+  {
+    "name": "Pixabay",
+    "url": "https://pixabay.com",
+    "description": "A massive free library of stock images, videos, illustrations, and music all available for commercial use with no attribution required. Featured by lucaswebq as a go-to creative resource for designers, students, and content creators.",
+    "tags": [
+      "free-images",
+      "stock-photos",
+      "design",
+      "creative"
+    ]
+  },
+  {
+    "name": "Innerbody",
+    "url": "https://www.innerbody.com",
+    "description": "An interactive health and anatomy platform with detailed diagrams of human body systems. Lucaswebq highlighted it as a powerful learning tool for students and anyone curious about health, fitness, or biology.",
+    "tags": [
+      "health",
+      "anatomy",
+      "education",
+      "biology"
+    ]
+  },
+  {
+    "name": "CleanPNG",
+    "url": "https://www.cleanpng.com",
+    "description": "A large collection of free, high-quality transparent PNG images ready to download without login or payment. Featured by lucaswebq for designers, marketers, and students who need clean cutout images for projects.",
+    "tags": [
+      "design",
+      "png",
+      "free-resources",
+      "graphics"
+    ]
+  },
+  {
+    "name": "My Fridge Food",
+    "url": "https://myfridgefood.com",
+    "description": "Enter the ingredients you already have at home, and this site generates recipe ideas for you. Lucaswebq showcased it as a brilliant kitchen hack for reducing food waste and discovering meals without a grocery run.",
+    "tags": [
+      "cooking",
+      "recipes",
+      "food",
+      "utility"
+    ]
+  },
+  {
+    "name": "TempMail",
+    "url": "https://temp-mail.org",
+    "description": "Instantly generates a disposable temporary email address, letting you sign up for services without exposing your real inbox. Lucaswebq featured it as a key privacy tool for avoiding spam and protecting personal data.",
+    "tags": [
+      "privacy",
+      "email",
+      "security",
+      "utility"
+    ]
+  },
+  {
+    "name": "Reverse Photos",
+    "url": "https://reverse.photos",
+    "description": "Upload any image to find where else it appears online. Lucaswebq recommended it for verifying photo authenticity, tracing image sources, and identifying fake social media profiles or misinformation.",
+    "tags": [
+      "reverse-image-search",
+      "fact-checking",
+      "privacy",
+      "research"
+    ]
+  },
+  {
+    "name": "Drive & Listen",
+    "url": "https://driveandlisten.herokuapp.com",
+    "description": "A relaxing website that lets you virtually drive through cities around the world while listening to local radio stations. Lucaswebq featured it as a unique way to explore global cultures and unwind from the comfort of home.",
+    "tags": [
+      "travel",
+      "relaxation",
+      "music",
+      "entertainment"
+    ]
+  }
+]
